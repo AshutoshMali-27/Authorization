@@ -1,0 +1,14 @@
+C:\Users\ashutosh\Desktop\Console Applications\New folder\APISolution2\APISolution3\Models\bin\Debug\net8.0\Models.deps.json
+C:\Users\ashutosh\Desktop\Console Applications\New folder\APISolution2\APISolution3\Models\bin\Debug\net8.0\Models.runtimeconfig.json
+C:\Users\ashutosh\Desktop\Console Applications\New folder\APISolution2\APISolution3\Models\bin\Debug\net8.0\Models.dll
+C:\Users\ashutosh\Desktop\Console Applications\New folder\APISolution2\APISolution3\Models\bin\Debug\net8.0\Models.pdb
+C:\Users\ashutosh\Desktop\Console Applications\New folder\APISolution2\APISolution3\Models\obj\Debug\net8.0\Models.csproj.AssemblyReference.cache
+C:\Users\ashutosh\Desktop\Console Applications\New folder\APISolution2\APISolution3\Models\obj\Debug\net8.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashutosh\Desktop\Console Applications\New folder\APISolution2\APISolution3\Models\obj\Debug\net8.0\Models.AssemblyInfoInputs.cache
+C:\Users\ashutosh\Desktop\Console Applications\New folder\APISolution2\APISolution3\Models\obj\Debug\net8.0\Models.AssemblyInfo.cs
+C:\Users\ashutosh\Desktop\Console Applications\New folder\APISolution2\APISolution3\Models\obj\Debug\net8.0\Models.csproj.CoreCompileInputs.cache
+C:\Users\ashutosh\Desktop\Console Applications\New folder\APISolution2\APISolution3\Models\obj\Debug\net8.0\Models.dll
+C:\Users\ashutosh\Desktop\Console Applications\New folder\APISolution2\APISolution3\Models\obj\Debug\net8.0\refint\Models.dll
+C:\Users\ashutosh\Desktop\Console Applications\New folder\APISolution2\APISolution3\Models\obj\Debug\net8.0\Models.pdb
+C:\Users\ashutosh\Desktop\Console Applications\New folder\APISolution2\APISolution3\Models\obj\Debug\net8.0\Models.genruntimeconfig.cache
+C:\Users\ashutosh\Desktop\Console Applications\New folder\APISolution2\APISolution3\Models\obj\Debug\net8.0\ref\Models.dll
